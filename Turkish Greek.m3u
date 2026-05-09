@@ -18371,401 +18371,779 @@ plugin://plugin.video.youtube/play/?video_id=xJn-c5qLbdE
 #EXTINF:-1,ΣΜΥΡΝΗ ΜΟΥ ΑΓΑΠΗΜΕΝΗ SMYRNA MY BELOVED 
 plugin://plugin.video.youtube/play/?video_id=ecDttNylxmo
 
-#EXTINF:-1 group-title="Kurulus Osman",Kurulus Osman - Episode 1
-#KODIPROP:inputstream.adaptive.subtitles=https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%201.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1
+
+#EXTINF:-1,Kurulus Osman - Episode 1
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%201.srt
 plugin://plugin.video.youtube/play/?video_id=0fTJyCTwznM
 
-#EXTINF:-1 group-title="Kurulus Osman",Kurulus Osman - Episode 2
-#KODIPROP:inputstream.adaptive.subtitles=https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%202.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1
+#EXTINF:-1,Kurulus Osman - Episode 2
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%202.srt
 plugin://plugin.video.youtube/play/?video_id=ugLGoSZvuOc
 
-
-
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%202.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 1
-plugin://plugin.video.youtube/play/?video_id=0fTJyCTwznM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%202.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 2
-plugin://plugin.video.youtube/play/?video_id=ugLGoSZvuOc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%203.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 3
+#EXTINF:-1,Kurulus Osman - Episode 3
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%203.srt
 plugin://plugin.video.youtube/play/?video_id=1nS6XKd_NXw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%204.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 4
+
+#EXTINF:-1,Kurulus Osman - Episode 4
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%204.srt
 plugin://plugin.video.youtube/play/?video_id=fvb3_e_xI70
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%205.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 5
+
+#EXTINF:-1,Kurulus Osman - Episode 5
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%205.srt
 plugin://plugin.video.youtube/play/?video_id=RepaGkzhu_Y
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%206.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 6
+
+#EXTINF:-1,Kurulus Osman - Episode 6
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%206.srt
 plugin://plugin.video.youtube/play/?video_id=JreH9ISczag
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%207.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 7
+
+#EXTINF:-1,Kurulus Osman - Episode 7
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%207.srt
 plugin://plugin.video.youtube/play/?video_id=5tsQs3praQg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%208.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 8
+
+#EXTINF:-1,Kurulus Osman - Episode 8
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%208.srt
 plugin://plugin.video.youtube/play/?video_id=SP-p5Eve3Vg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%209.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 9
+
+#EXTINF:-1,Kurulus Osman - Episode 9
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%209.srt
 plugin://plugin.video.youtube/play/?video_id=NCNKcWLA7WM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2010.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 10
+
+#EXTINF:-1,Kurulus Osman - Episode 10
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2010.srt
 plugin://plugin.video.youtube/play/?video_id=Fc-weelaEWU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2011.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 11
+
+#EXTINF:-1,Kurulus Osman - Episode 11
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2011.srt
 plugin://plugin.video.youtube/play/?video_id=gTuGTCows_w
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2012.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 12
+
+#EXTINF:-1,Kurulus Osman - Episode 12
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2012.srt
 plugin://plugin.video.youtube/play/?video_id=ssd85B28W18
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2013.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 13
+
+#EXTINF:-1,Kurulus Osman - Episode 13
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2013.srt
 plugin://plugin.video.youtube/play/?video_id=wmM4wQn1krE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2014.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 14
+
+#EXTINF:-1,Kurulus Osman - Episode 14
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2014.srt
 plugin://plugin.video.youtube/play/?video_id=dW_UkfDkJeU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2015.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 15
+
+#EXTINF:-1,Kurulus Osman - Episode 15
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2015.srt
 plugin://plugin.video.youtube/play/?video_id=pCyZEfurYNQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2016.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 16
+
+#EXTINF:-1,Kurulus Osman - Episode 16
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2016.srt
 plugin://plugin.video.youtube/play/?video_id=xk-ZoGllYAk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2017.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 17
+
+#EXTINF:-1,Kurulus Osman - Episode 17
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2017.srt
 plugin://plugin.video.youtube/play/?video_id=hqISOAvLP2M
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2018.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 18
+
+#EXTINF:-1,Kurulus Osman - Episode 18
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2018.srt
 plugin://plugin.video.youtube/play/?video_id=Vjq9VWbBvbI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2019.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 19
+
+#EXTINF:-1,Kurulus Osman - Episode 19
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2019.srt
 plugin://plugin.video.youtube/play/?video_id=f0-OlfeY03U
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2020.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 20
+
+#EXTINF:-1,Kurulus Osman - Episode 20
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2020.srt
 plugin://plugin.video.youtube/play/?video_id=AFjiiXaAtQs
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2021.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 21
+
+#EXTINF:-1,Kurulus Osman - Episode 21
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2021.srt
 plugin://plugin.video.youtube/play/?video_id=JwFPEq5niJ4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2022.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 22
+
+#EXTINF:-1,Kurulus Osman - Episode 22
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2022.srt
 plugin://plugin.video.youtube/play/?video_id=u035cIWuva8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2023.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 23
+
+#EXTINF:-1,Kurulus Osman - Episode 23
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2023.srt
 plugin://plugin.video.youtube/play/?video_id=PhxwFMcJTNo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2024.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 24
+
+#EXTINF:-1,Kurulus Osman - Episode 24
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2024.srt
 plugin://plugin.video.youtube/play/?video_id=FAWA11shX3s
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2025.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 25
+
+#EXTINF:-1,Kurulus Osman - Episode 25
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2025.srt
 plugin://plugin.video.youtube/play/?video_id=x03GQGY-FCA
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2026.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 26
+
+#EXTINF:-1,Kurulus Osman - Episode 26
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2026.srt
 plugin://plugin.video.youtube/play/?video_id=bY3RORNvZv4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2027.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 27
+
+#EXTINF:-1,Kurulus Osman - Episode 27
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2027.srt
 plugin://plugin.video.youtube/play/?video_id=-EEfFArCXh4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2028.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 28
+
+#EXTINF:-1,Kurulus Osman - Episode 28
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2028.srt
 plugin://plugin.video.youtube/play/?video_id=l32eRv7O4Xg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2029.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 29
+
+#EXTINF:-1,Kurulus Osman - Episode 29
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2029.srt
 plugin://plugin.video.youtube/play/?video_id=30KcyrK61eU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2030.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 30
+
+#EXTINF:-1,Kurulus Osman - Episode 30
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2030.srt
 plugin://plugin.video.youtube/play/?video_id=baDsiIza6xE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2031.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 31
+
+#EXTINF:-1,Kurulus Osman - Episode 31
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2031.srt
 plugin://plugin.video.youtube/play/?video_id=RYhBjWx68wk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2032.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 32
+
+#EXTINF:-1,Kurulus Osman - Episode 32
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2032.srt
 plugin://plugin.video.youtube/play/?video_id=UMWd96p0kZE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2033.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 33
+
+#EXTINF:-1,Kurulus Osman - Episode 33
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2033.srt
 plugin://plugin.video.youtube/play/?video_id=2_VinqU6cLc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2034.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 34
+
+#EXTINF:-1,Kurulus Osman - Episode 34
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2034.srt
 plugin://plugin.video.youtube/play/?video_id=Eq0_jf70Lnw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2035.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 35
+
+#EXTINF:-1,Kurulus Osman - Episode 35
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2035.srt
 plugin://plugin.video.youtube/play/?video_id=pauj2Ysd7-M
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2036.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 36
+
+#EXTINF:-1,Kurulus Osman - Episode 36
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2036.srt
 plugin://plugin.video.youtube/play/?video_id=GJil2x8Wffw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2037.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 37
+
+#EXTINF:-1,Kurulus Osman - Episode 37
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2037.srt
 plugin://plugin.video.youtube/play/?video_id=brTJMrML94o
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2038.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 38
+
+#EXTINF:-1,Kurulus Osman - Episode 38
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2038.srt
 plugin://plugin.video.youtube/play/?video_id=7AKxJJ64WsM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2039.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 39
+
+#EXTINF:-1,Kurulus Osman - Episode 39
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2039.srt
 plugin://plugin.video.youtube/play/?video_id=QDeOzA5jE8I
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2040.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 40
+
+#EXTINF:-1,Kurulus Osman - Episode 40
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2040.srt
 plugin://plugin.video.youtube/play/?video_id=hDRqLE9tWy0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2041.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 41
+
+#EXTINF:-1,Kurulus Osman - Episode 41
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2041.srt
 plugin://plugin.video.youtube/play/?video_id=cf6j1Uq7HhA
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2042.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 42
+
+#EXTINF:-1,Kurulus Osman - Episode 42
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2042.srt
 plugin://plugin.video.youtube/play/?video_id=UFqBPE7JXy0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2043.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 43
+
+#EXTINF:-1,Kurulus Osman - Episode 43
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2043.srt
 plugin://plugin.video.youtube/play/?video_id=KWwEpEx-SEg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2044.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 44
+
+#EXTINF:-1,Kurulus Osman - Episode 44
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2044.srt
 plugin://plugin.video.youtube/play/?video_id=vQX-_V5qg-I
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2045.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 45
+
+#EXTINF:-1,Kurulus Osman - Episode 45
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2045.srt
 plugin://plugin.video.youtube/play/?video_id=Q5Ywyg4ueSE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2046.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 46
+
+#EXTINF:-1,Kurulus Osman - Episode 46
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2046.srt
 plugin://plugin.video.youtube/play/?video_id=9oxjEir9t0E
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2047.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 47
+
+#EXTINF:-1,Kurulus Osman - Episode 47
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2047.srt
 plugin://plugin.video.youtube/play/?video_id=W-EfsUTksck
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2048.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 48
+
+#EXTINF:-1,Kurulus Osman - Episode 48
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2048.srt
 plugin://plugin.video.youtube/play/?video_id=6RvbRlwHvbg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2049.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 49
+
+#EXTINF:-1,Kurulus Osman - Episode 49
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2049.srt
 plugin://plugin.video.youtube/play/?video_id=m3BekC2LOZ4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2050.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 50
+
+#EXTINF:-1,Kurulus Osman - Episode 50
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2050.srt
 plugin://plugin.video.youtube/play/?video_id=dQfmfXu_Oo4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2051.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 51
+
+#EXTINF:-1,Kurulus Osman - Episode 51
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2051.srt
 plugin://plugin.video.youtube/play/?video_id=9H-Tl4xQzXc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2052.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 52
+
+#EXTINF:-1,Kurulus Osman - Episode 52
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2052.srt
 plugin://plugin.video.youtube/play/?video_id=fW1eDMJPAXI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2053.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 53
+
+#EXTINF:-1,Kurulus Osman - Episode 53
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2053.srt
 plugin://plugin.video.youtube/play/?video_id=qRh1Qg6swPU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2054.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 54
+
+#EXTINF:-1,Kurulus Osman - Episode 54
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2054.srt
 plugin://plugin.video.youtube/play/?video_id=Xu2RGqkDIoI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2055.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 55
+
+#EXTINF:-1,Kurulus Osman - Episode 55
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2055.srt
 plugin://plugin.video.youtube/play/?video_id=Rjmte7NzU7k
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2056.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 56
+
+#EXTINF:-1,Kurulus Osman - Episode 56
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2056.srt
 plugin://plugin.video.youtube/play/?video_id=xNXXti8iSqU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2057.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 57
+
+#EXTINF:-1,Kurulus Osman - Episode 57
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2057.srt
 plugin://plugin.video.youtube/play/?video_id=1YJBHUGmkbE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2058.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 58
+
+#EXTINF:-1,Kurulus Osman - Episode 58
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2058.srt
 plugin://plugin.video.youtube/play/?video_id=3CzWYEVO2a4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2059.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 59
+
+#EXTINF:-1,Kurulus Osman - Episode 59
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2059.srt
 plugin://plugin.video.youtube/play/?video_id=c1izj8jr1XQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2060.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 60
+
+#EXTINF:-1,Kurulus Osman - Episode 60
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2060.srt
 plugin://plugin.video.youtube/play/?video_id=BxRGXCAFijc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2061.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 61
+
+#EXTINF:-1,Kurulus Osman - Episode 61
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2061.srt
 plugin://plugin.video.youtube/play/?video_id=a7vz8c1cM3w
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2062.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 62
+
+#EXTINF:-1,Kurulus Osman - Episode 62
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2062.srt
 plugin://plugin.video.youtube/play/?video_id=kKStk4V6HRU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2063.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 63
+
+#EXTINF:-1,Kurulus Osman - Episode 63
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2063.srt
 plugin://plugin.video.youtube/play/?video_id=juOuzbcmpqg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2064.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 64
+
+#EXTINF:-1,Kurulus Osman - Episode 64
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2064.srt
 plugin://plugin.video.youtube/play/?video_id=7Mn1mlrNFgU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2065.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 65
+
+#EXTINF:-1,Kurulus Osman - Episode 65
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2065.srt
 plugin://plugin.video.youtube/play/?video_id=y56W71aIgd0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2066.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 66
+
+#EXTINF:-1,Kurulus Osman - Episode 66
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2066.srt
 plugin://plugin.video.youtube/play/?video_id=ZZXEbSw1KrI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2067.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 67
+
+#EXTINF:-1,Kurulus Osman - Episode 67
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2067.srt
 plugin://plugin.video.youtube/play/?video_id=oqAI2Qaqqyk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2068.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 68
+
+#EXTINF:-1,Kurulus Osman - Episode 68
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2068.srt
 plugin://plugin.video.youtube/play/?video_id=GfX3zqhYYhk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2069.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 69
+
+#EXTINF:-1,Kurulus Osman - Episode 69
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2069.srt
 plugin://plugin.video.youtube/play/?video_id=kCf15d2KbBo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2070.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 70
+
+#EXTINF:-1,Kurulus Osman - Episode 70
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2070.srt
 plugin://plugin.video.youtube/play/?video_id=mAZ2uO9qu5M
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2071.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 71
+
+#EXTINF:-1,Kurulus Osman - Episode 71
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2071.srt
 plugin://plugin.video.youtube/play/?video_id=duZFBBJDKuA
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2072.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 72
+
+#EXTINF:-1,Kurulus Osman - Episode 72
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2072.srt
 plugin://plugin.video.youtube/play/?video_id=FO7U9CVl7CU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2073.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 73
+
+#EXTINF:-1,Kurulus Osman - Episode 73
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2073.srt
 plugin://plugin.video.youtube/play/?video_id=kT3mXnMeBXM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2074.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 74
+
+#EXTINF:-1,Kurulus Osman - Episode 74
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2074.srt
 plugin://plugin.video.youtube/play/?video_id=-gvuDXlYn4Q
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2075.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 75
+
+#EXTINF:-1,Kurulus Osman - Episode 75
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2075.srt
 plugin://plugin.video.youtube/play/?video_id=moJCiPLNFmc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2076.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 76
+
+#EXTINF:-1,Kurulus Osman - Episode 76
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2076.srt
 plugin://plugin.video.youtube/play/?video_id=vUJ1kIJzf64
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2077.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 77
+
+#EXTINF:-1,Kurulus Osman - Episode 77
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2077.srt
 plugin://plugin.video.youtube/play/?video_id=CffJInc57oE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2078.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 78
+
+#EXTINF:-1,Kurulus Osman - Episode 78
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2078.srt
 plugin://plugin.video.youtube/play/?video_id=7dfoqP5z0Eo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2079.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 79
+
+#EXTINF:-1,Kurulus Osman - Episode 79
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2079.srt
 plugin://plugin.video.youtube/play/?video_id=XraGwABUYc0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2080.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 80
+
+#EXTINF:-1,Kurulus Osman - Episode 80
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2080.srt
 plugin://plugin.video.youtube/play/?video_id=Zn5tR-3tMqU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2081.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 81
+
+#EXTINF:-1,Kurulus Osman - Episode 81
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2081.srt
 plugin://plugin.video.youtube/play/?video_id=u5-1ibdnrbo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2082.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 82
+
+#EXTINF:-1,Kurulus Osman - Episode 82
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2082.srt
 plugin://plugin.video.youtube/play/?video_id=Irxq4RiKY5I
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2083.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 83
+
+#EXTINF:-1,Kurulus Osman - Episode 83
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2083.srt
 plugin://plugin.video.youtube/play/?video_id=qLlaUYxIMDI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2084.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 84
+
+#EXTINF:-1,Kurulus Osman - Episode 84
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2084.srt
 plugin://plugin.video.youtube/play/?video_id=2LhfrMYDZHM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2085.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 85
+
+#EXTINF:-1,Kurulus Osman - Episode 85
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2085.srt
 plugin://plugin.video.youtube/play/?video_id=B2DghXpOMbk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2086.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 86
+
+#EXTINF:-1,Kurulus Osman - Episode 86
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2086.srt
 plugin://plugin.video.youtube/play/?video_id=2JJa4LXtv5s
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2087.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 87
+
+#EXTINF:-1,Kurulus Osman - Episode 87
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2087.srt
 plugin://plugin.video.youtube/play/?video_id=w4CQ0fKNBeU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2088.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 88
+
+#EXTINF:-1,Kurulus Osman - Episode 88
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2088.srt
 plugin://plugin.video.youtube/play/?video_id=LA0_b4COZtM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2089.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 89
+
+#EXTINF:-1,Kurulus Osman - Episode 89
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2089.srt
 plugin://plugin.video.youtube/play/?video_id=dWESn5qU5FY
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2090.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 90
+
+#EXTINF:-1,Kurulus Osman - Episode 90
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2090.srt
 plugin://plugin.video.youtube/play/?video_id=U-IsJHh9qik
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2091.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 91
+
+#EXTINF:-1,Kurulus Osman - Episode 91
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2091.srt
 plugin://plugin.video.youtube/play/?video_id=b7SZfclpHk4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2092.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 92
+
+#EXTINF:-1,Kurulus Osman - Episode 92
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2092.srt
 plugin://plugin.video.youtube/play/?video_id=GGY2mPQwN7c
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2093.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 93
+
+#EXTINF:-1,Kurulus Osman - Episode 93
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2093.srt
 plugin://plugin.video.youtube/play/?video_id=0hJ8s5flRFo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2094.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 94
+
+#EXTINF:-1,Kurulus Osman - Episode 94
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2094.srt
 plugin://plugin.video.youtube/play/?video_id=1792MrO0GDQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2095.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 95
+
+#EXTINF:-1,Kurulus Osman - Episode 95
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2095.srt
 plugin://plugin.video.youtube/play/?video_id=NhuBsXZXiCc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2096.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 96
+
+#EXTINF:-1,Kurulus Osman - Episode 96
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2096.srt
 plugin://plugin.video.youtube/play/?video_id=ELN1A5JYMCE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2097.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 97
+
+#EXTINF:-1,Kurulus Osman - Episode 97
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2097.srt
 plugin://plugin.video.youtube/play/?video_id=0nOrTI3WT1s
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2098.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 98
+
+#EXTINF:-1,Kurulus Osman - Episode 98
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2098.srt
 plugin://plugin.video.youtube/play/?video_id=Niymd9MYZiI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%2099.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 99
+
+#EXTINF:-1,Kurulus Osman - Episode 99
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%2099.srt
 plugin://plugin.video.youtube/play/?video_id=Gu4ibqYYRsg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20100.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 100
+
+#EXTINF:-1,Kurulus Osman - Episode 100
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20100.srt
 plugin://plugin.video.youtube/play/?video_id=NykDHjUgkd4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20101.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 101
+
+#EXTINF:-1,Kurulus Osman - Episode 101
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20101.srt
 plugin://plugin.video.youtube/play/?video_id=-uOGEdMvtxE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20102.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 102
+
+#EXTINF:-1,Kurulus Osman - Episode 102
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20102.srt
 plugin://plugin.video.youtube/play/?video_id=VIBbdXvF7gI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20103.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 103
+
+#EXTINF:-1,Kurulus Osman - Episode 103
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20103.srt
 plugin://plugin.video.youtube/play/?video_id=De5jdGmK7Is
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20104.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 104
+
+#EXTINF:-1,Kurulus Osman - Episode 104
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20104.srt
 plugin://plugin.video.youtube/play/?video_id=Y71fS7xinXE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20105.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 105
+
+#EXTINF:-1,Kurulus Osman - Episode 105
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20105.srt
 plugin://plugin.video.youtube/play/?video_id=Mt8Jbydr7K0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20106.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 106
+
+#EXTINF:-1,Kurulus Osman - Episode 106
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20106.srt
 plugin://plugin.video.youtube/play/?video_id=iw8WmQQmpJg
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20107.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 107
+
+#EXTINF:-1,Kurulus Osman - Episode 107
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20107.srt
 plugin://plugin.video.youtube/play/?video_id=HQSISIMishc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20108.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 108
+
+#EXTINF:-1,Kurulus Osman - Episode 108
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20108.srt
 plugin://plugin.video.youtube/play/?video_id=XwkpCq81Vzo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20109.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 109
+
+#EXTINF:-1,Kurulus Osman - Episode 109
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20109.srt
 plugin://plugin.video.youtube/play/?video_id=Vr3cYuWO6KU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20110.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 110
+
+#EXTINF:-1,Kurulus Osman - Episode 110
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20110.srt
 plugin://plugin.video.youtube/play/?video_id=BWZLammV9DA
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20111.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 111
+
+#EXTINF:-1,Kurulus Osman - Episode 111
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20111.srt
 plugin://plugin.video.youtube/play/?video_id=7mxIkFwqy1Q
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20112.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 112
+
+#EXTINF:-1,Kurulus Osman - Episode 112
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20112.srt
 plugin://plugin.video.youtube/play/?video_id=mGadII2wd6Y
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20113.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 113
+
+#EXTINF:-1,Kurulus Osman - Episode 113
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20113.srt
 plugin://plugin.video.youtube/play/?video_id=DxLtEr3OcRI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20114.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 114
+
+#EXTINF:-1,Kurulus Osman - Episode 114
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20114.srt
 plugin://plugin.video.youtube/play/?video_id=i-YEad9YqZI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20115.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 115
+
+#EXTINF:-1,Kurulus Osman - Episode 115
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20115.srt
 plugin://plugin.video.youtube/play/?video_id=cd8auLvf1rY
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20116.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 116
+
+#EXTINF:-1,Kurulus Osman - Episode 116
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20116.srt
 plugin://plugin.video.youtube/play/?video_id=tYdkup2l0Wk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20117.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 117
+
+#EXTINF:-1,Kurulus Osman - Episode 117
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20117.srt
 plugin://plugin.video.youtube/play/?video_id=0sOdMDtvmaw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20118.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 118
+
+#EXTINF:-1,Kurulus Osman - Episode 118
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20118.srt
 plugin://plugin.video.youtube/play/?video_id=yCRKi_NhB28
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20119.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 119
+
+#EXTINF:-1,Kurulus Osman - Episode 119
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20119.srt
 plugin://plugin.video.youtube/play/?video_id=5RjAtpO_ypQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20120.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 120
+
+#EXTINF:-1,Kurulus Osman - Episode 120
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20120.srt
 plugin://plugin.video.youtube/play/?video_id=c0bTnNbeh4Y
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20121.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 121
+
+#EXTINF:-1,Kurulus Osman - Episode 121
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20121.srt
 plugin://plugin.video.youtube/play/?video_id=kz3_x_YZ1bw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20122.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 122
+
+#EXTINF:-1,Kurulus Osman - Episode 122
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20122.srt
 plugin://plugin.video.youtube/play/?video_id=7qG5v71ukSo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20123.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 123
+
+#EXTINF:-1,Kurulus Osman - Episode 123
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20123.srt
 plugin://plugin.video.youtube/play/?video_id=87-Z4k-EOQQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20124.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 124
+
+#EXTINF:-1,Kurulus Osman - Episode 124
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20124.srt
 plugin://plugin.video.youtube/play/?video_id=9EVUvzFZoGs
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20125.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 125
+
+#EXTINF:-1,Kurulus Osman - Episode 125
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20125.srt
 plugin://plugin.video.youtube/play/?video_id=95CEz3CzwB8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20126.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 126
+
+#EXTINF:-1,Kurulus Osman - Episode 126
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20126.srt
 plugin://plugin.video.youtube/play/?video_id=iXL_RMYcr0Q
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20127.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 127
+
+#EXTINF:-1,Kurulus Osman - Episode 127
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20127.srt
 plugin://plugin.video.youtube/play/?video_id=tsOPKQ6AwN4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20128.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 128
+
+#EXTINF:-1,Kurulus Osman - Episode 128
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20128.srt
 plugin://plugin.video.youtube/play/?video_id=3jOwWkZa9YM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20129.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 129
+
+#EXTINF:-1,Kurulus Osman - Episode 129
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20129.srt
 plugin://plugin.video.youtube/play/?video_id=p75b2bZtSDQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20130.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 130
+
+#EXTINF:-1,Kurulus Osman - Episode 130
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20130.srt
 plugin://plugin.video.youtube/play/?video_id=_xt6Ucg37o0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20131.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 131
+
+#EXTINF:-1,Kurulus Osman - Episode 131
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20131.srt
 plugin://plugin.video.youtube/play/?video_id=KH2gvS6BHb8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20132.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 132
+
+#EXTINF:-1,Kurulus Osman - Episode 132
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20132.srt
 plugin://plugin.video.youtube/play/?video_id=OYyjHNp4rrk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20133.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 133
+
+#EXTINF:-1,Kurulus Osman - Episode 133
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20133.srt
 plugin://plugin.video.youtube/play/?video_id=duHmlPpEVU4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20134.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 134
+
+#EXTINF:-1,Kurulus Osman - Episode 134
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20134.srt
 plugin://plugin.video.youtube/play/?video_id=jEL35SYqbRo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20135.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 135
+
+#EXTINF:-1,Kurulus Osman - Episode 135
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20135.srt
 plugin://plugin.video.youtube/play/?video_id=oC4smcTviFI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20136.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 136
+
+#EXTINF:-1,Kurulus Osman - Episode 136
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20136.srt
 plugin://plugin.video.youtube/play/?video_id=JdO2xRQOgt8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20137.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 137
+
+#EXTINF:-1,Kurulus Osman - Episode 137
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20137.srt
 plugin://plugin.video.youtube/play/?video_id=FPYA7k8Q7qc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20138.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 138
+
+#EXTINF:-1,Kurulus Osman - Episode 138
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20138.srt
 plugin://plugin.video.youtube/play/?video_id=hu3VLYQgbzc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20139.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 139
+
+#EXTINF:-1,Kurulus Osman - Episode 139
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20139.srt
 plugin://plugin.video.youtube/play/?video_id=Rt-PGfzGmfo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20140.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 140
+
+#EXTINF:-1,Kurulus Osman - Episode 140
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20140.srt
 plugin://plugin.video.youtube/play/?video_id=-gcKQxH3-W8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20141.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 141
+
+#EXTINF:-1,Kurulus Osman - Episode 141
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20141.srt
 plugin://plugin.video.youtube/play/?video_id=Vd9DV5a5kxA
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20142.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 142
+
+#EXTINF:-1,Kurulus Osman - Episode 142
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20142.srt
 plugin://plugin.video.youtube/play/?video_id=uvTeSe5UDrE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20143.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 143
+
+#EXTINF:-1,Kurulus Osman - Episode 143
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20143.srt
 plugin://plugin.video.youtube/play/?video_id=ZF32wYyAvCw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20144.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 144
+
+#EXTINF:-1,Kurulus Osman - Episode 144
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20144.srt
 plugin://plugin.video.youtube/play/?video_id=uNzQlWZ1GM4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20145.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 145
+
+#EXTINF:-1,Kurulus Osman - Episode 145
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20145.srt
 plugin://plugin.video.youtube/play/?video_id=10S5eNFoTeU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20146.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 146
+
+#EXTINF:-1,Kurulus Osman - Episode 146
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20146.srt
 plugin://plugin.video.youtube/play/?video_id=pPBZcbdSvjY
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20147.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 147
+
+#EXTINF:-1,Kurulus Osman - Episode 147
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20147.srt
 plugin://plugin.video.youtube/play/?video_id=G01LXFz5IRQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20148.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 148
+
+#EXTINF:-1,Kurulus Osman - Episode 148
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20148.srt
 plugin://plugin.video.youtube/play/?video_id=6rB7AChVJ2c
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20149.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 149
+
+#EXTINF:-1,Kurulus Osman - Episode 149
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20149.srt
 plugin://plugin.video.youtube/play/?video_id=PK1_nQRvl9s
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20150.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 150
+
+#EXTINF:-1,Kurulus Osman - Episode 150
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20150.srt
 plugin://plugin.video.youtube/play/?video_id=eQVInaoX_68
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20151.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 151
+
+#EXTINF:-1,Kurulus Osman - Episode 151
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20151.srt
 plugin://plugin.video.youtube/play/?video_id=1ogi5ygIuv0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20152.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 152
+
+#EXTINF:-1,Kurulus Osman - Episode 152
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20152.srt
 plugin://plugin.video.youtube/play/?video_id=ol26GyoXgj4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20153.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 153
+
+#EXTINF:-1,Kurulus Osman - Episode 153
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20153.srt
 plugin://plugin.video.youtube/play/?video_id=9U7EFQmW8og
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20154.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 154
+
+#EXTINF:-1,Kurulus Osman - Episode 154
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20154.srt
 plugin://plugin.video.youtube/play/?video_id=2mBGI_uHooQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20155.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 155
+
+#EXTINF:-1,Kurulus Osman - Episode 155
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20155.srt
 plugin://plugin.video.youtube/play/?video_id=KxHKd2lTiTw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20156.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 156
+
+#EXTINF:-1,Kurulus Osman - Episode 156
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20156.srt
 plugin://plugin.video.youtube/play/?video_id=aYKI5BQDwl0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20157.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 157
+
+#EXTINF:-1,Kurulus Osman - Episode 157
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20157.srt
 plugin://plugin.video.youtube/play/?video_id=n2JHEvD5A6Q
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20158.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 158
+
+#EXTINF:-1,Kurulus Osman - Episode 158
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20158.srt
 plugin://plugin.video.youtube/play/?video_id=L-YVx99biLc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20159.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 159
+
+#EXTINF:-1,Kurulus Osman - Episode 159
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20159.srt
 plugin://plugin.video.youtube/play/?video_id=yZo_OUXsVOk
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20160.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 160
+
+#EXTINF:-1,Kurulus Osman - Episode 160
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20160.srt
 plugin://plugin.video.youtube/play/?video_id=cQg4IbY3wz4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20161.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 161
+
+#EXTINF:-1,Kurulus Osman - Episode 161
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20161.srt
 plugin://plugin.video.youtube/play/?video_id=Z18EJxv-Ne8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20162.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 162
+
+#EXTINF:-1,Kurulus Osman - Episode 162
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20162.srt
 plugin://plugin.video.youtube/play/?video_id=7jjiX0aqgnY
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20163.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 163
+
+#EXTINF:-1,Kurulus Osman - Episode 163
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20163.srt
 plugin://plugin.video.youtube/play/?video_id=puwqgBLvgSc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20164.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 164
+
+#EXTINF:-1,Kurulus Osman - Episode 164
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20164.srt
 plugin://plugin.video.youtube/play/?video_id=_byNumfp_x0
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20165.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 165
+
+#EXTINF:-1,Kurulus Osman - Episode 165
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20165.srt
 plugin://plugin.video.youtube/play/?video_id=DVbMSDuneds
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20166.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 166
+
+#EXTINF:-1,Kurulus Osman - Episode 166
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20166.srt
 plugin://plugin.video.youtube/play/?video_id=lKgTGpFae-w
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20167.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 167
+
+#EXTINF:-1,Kurulus Osman - Episode 167
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20167.srt
 plugin://plugin.video.youtube/play/?video_id=4_ubL2ZiBKE
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20168.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 168
+
+#EXTINF:-1,Kurulus Osman - Episode 168
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20168.srt
 plugin://plugin.video.youtube/play/?video_id=ILZ-QtGaSCQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20169.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 169
+
+#EXTINF:-1,Kurulus Osman - Episode 169
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20169.srt
 plugin://plugin.video.youtube/play/?video_id=3Etoem1C1uU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20170.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 170
+
+#EXTINF:-1,Kurulus Osman - Episode 170
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20170.srt
 plugin://plugin.video.youtube/play/?video_id=HXsC9B1OMis
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20171.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 171
+
+#EXTINF:-1,Kurulus Osman - Episode 171
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20171.srt
 plugin://plugin.video.youtube/play/?video_id=wbZnhzY0XsQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20172.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 172
+
+#EXTINF:-1,Kurulus Osman - Episode 172
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20172.srt
 plugin://plugin.video.youtube/play/?video_id=5HJog2KYgos
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20173.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 173
+
+#EXTINF:-1,Kurulus Osman - Episode 173
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20173.srt
 plugin://plugin.video.youtube/play/?video_id=GGkgmvz3VuM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20174.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 174
+
+#EXTINF:-1,Kurulus Osman - Episode 174
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20174.srt
 plugin://plugin.video.youtube/play/?video_id=pXbIDRmnrXY
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20175.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 175
+
+#EXTINF:-1,Kurulus Osman - Episode 175
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20175.srt
 plugin://plugin.video.youtube/play/?video_id=uSjoh0MvOk8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20176.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 176
+
+#EXTINF:-1,Kurulus Osman - Episode 176
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20176.srt
 plugin://plugin.video.youtube/play/?video_id=imdNnKr9bZM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20177.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 177
+
+#EXTINF:-1,Kurulus Osman - Episode 177
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20177.srt
 plugin://plugin.video.youtube/play/?video_id=Q3RQC18baHo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20178.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 178
+
+#EXTINF:-1,Kurulus Osman - Episode 178
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20178.srt
 plugin://plugin.video.youtube/play/?video_id=Rfl7MrTxJPU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20179.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 179
+
+#EXTINF:-1,Kurulus Osman - Episode 179
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20179.srt
 plugin://plugin.video.youtube/play/?video_id=W2V7rIyLFXU
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20180.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 180
+
+#EXTINF:-1,Kurulus Osman - Episode 180
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20180.srt
 plugin://plugin.video.youtube/play/?video_id=gTuc-0XLwmo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20181.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 181
+
+#EXTINF:-1,Kurulus Osman - Episode 181
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20181.srt
 plugin://plugin.video.youtube/play/?video_id=Bveec4guQT4
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20182.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 182
+
+#EXTINF:-1,Kurulus Osman - Episode 182
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20182.srt
 plugin://plugin.video.youtube/play/?video_id=OChYH7ubsGQ
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20183.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 183
+
+#EXTINF:-1,Kurulus Osman - Episode 183
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20183.srt
 plugin://plugin.video.youtube/play/?video_id=FahlRE8G2mM
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20184.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 184
+
+#EXTINF:-1,Kurulus Osman - Episode 184
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20184.srt
 plugin://plugin.video.youtube/play/?video_id=vJAsUYEQt2c
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20185.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 185
+
+#EXTINF:-1,Kurulus Osman - Episode 185
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20185.srt
 plugin://plugin.video.youtube/play/?video_id=gBGt6ZsgSqo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20186.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 186
+
+#EXTINF:-1,Kurulus Osman - Episode 186
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20186.srt
 plugin://plugin.video.youtube/play/?video_id=-vYYXYwzaVI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20187.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 187
+
+#EXTINF:-1,Kurulus Osman - Episode 187
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20187.srt
 plugin://plugin.video.youtube/play/?video_id=Ngc5fCjVvY8
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20188.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 188
+
+#EXTINF:-1,Kurulus Osman - Episode 188
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20188.srt
 plugin://plugin.video.youtube/play/?video_id=QlXERLbVSEw
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20189.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 189
+
+#EXTINF:-1,Kurulus Osman - Episode 189
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20189.srt
 plugin://plugin.video.youtube/play/?video_id=TrcHMJxhYoo
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20190.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 190
+
+#EXTINF:-1,Kurulus Osman - Episode 190
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20190.srt
 plugin://plugin.video.youtube/play/?video_id=jOBrLiRA37Y
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20191.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 191
+
+#EXTINF:-1,Kurulus Osman - Episode 191
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20191.srt
 plugin://plugin.video.youtube/play/?video_id=hVji-Ml7NmI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20192.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 192
+
+#EXTINF:-1,Kurulus Osman - Episode 192
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20192.srt
 plugin://plugin.video.youtube/play/?video_id=Sw3U3fLGscI
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20193.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 193
+
+#EXTINF:-1,Kurulus Osman - Episode 193
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20193.srt
 plugin://plugin.video.youtube/play/?video_id=osvlWZGJ-sc
-#EXTINF:-1 sub-file="https://dl.dropboxusercontent.com/scl/fi/lqjbv8yufkrwhnjwpcblv/Kurulus%20Osman%20-%20Episode%20194.srt?rlkey=pb2tu99lhfhcrgj3o8y3okdsj&dl=1" sub-type="srt", Kurulus Osman - Episode 194
+
+#EXTINF:-1,Kurulus Osman - Episode 194
+#KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%20194.srt
 plugin://plugin.video.youtube/play/?video_id=346i0496yVM
