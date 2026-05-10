@@ -18371,7 +18371,7 @@ plugin://plugin.video.youtube/play/?video_id=xJn-c5qLbdE
 #EXTINF:-1,ΣΜΥΡΝΗ ΜΟΥ ΑΓΑΠΗΜΕΝΗ SMYRNA MY BELOVED 
 plugin://plugin.video.youtube/play/?video_id=ecDttNylxmo
 
-#EXTINF:-1,Kurulus Osman - Episode 1
+#EXTINF:-1,Kurulus_Osman_Episode_1
 #KODIPROP:subtitles=https://raw.githubusercontent.com/georgeparis/iptv-files/main/Kurulus%20Osman%20-%20Episode%201.srt
 plugin://plugin.video.youtube/play/?video_id=0fTJyCTwznM&prompt_for_subtitles=1
 
